@@ -96,16 +96,16 @@ public class ATMSystem {
 
     static {
 
-        accounts.put(1111111111, new Account(1111, 5000));
-        accounts.put(2222222222, new Account(2222, 8000));
-        accounts.put(3333333333, new Account(3333, 10000));
-        accounts.put(4444444444, new Account(4444, 7000));
-        accounts.put(5555555555, new Account(5555, 12000));
-        accounts.put(6666666666, new Account(6666, 15000));
-        accounts.put(7777777777, new Account(7777, 11000));
-        accounts.put(8888888888, new Account(8888, 13000));
-        accounts.put(9999999999, new Account(9999, 14000));
-        accounts.put(1010101010, new Account(1010, 6000));
+        accounts.put(111, new Account(1111, 5000));
+        accounts.put(222, new Account(2222, 8000));
+        accounts.put(333, new Account(3333, 10000));
+        accounts.put(444, new Account(4444, 7000));
+        accounts.put(555, new Account(5555, 12000));
+        accounts.put(666, new Account(6666, 15000));
+        accounts.put(777, new Account(7777, 11000));
+        accounts.put(888, new Account(8888, 13000));
+        accounts.put(999, new Account(9999, 14000));
+        accounts.put(101, new Account(1010, 6000));
     }
 
     public static void main(String[] args) {
